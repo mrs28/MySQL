@@ -58,17 +58,17 @@ Llave primaria
 6.- Cumplimiento de estándares
 
 ## CARACTERÍSTICAS DEL MODELO RELACIONAL
-Cada tabla debe tener un nombre único
-• Los datos de cualquier columna corresponden a un solo tipo de dato (por ejemplo cadena,entero, doble).
-• Las columnas de una relación se conocen como atributos.
-• El orden de los atributos no importa: los atributos no están ordenados.
-• Cada atributo de la tabla solo puede tener un valor en cada tupla (fila)
-• Cada atributo tiene un nombre único en cada tabla (aunque pueden coincidir en tablasdistintas)
-• Cada atributo tiene un dominio.
-• Los valores de los atributos son atómicos: en cada tupla (fila), cada atributo (columna) toma un solo valor. Esto aporta a la normalización de la base de datos.
-• El orden de las filas no importa
-• No se permiten filas repetidas mediante la clave primaría.
-• No existen 2 filas en la tabla que sean idénticas.
+* Cada tabla debe tener un nombre único.
+* Los datos de cualquier columna corresponden a un solo tipo de dato (por ejemplo cadena,entero, doble).
+* Las columnas de una relación se conocen como atributos.
+* El orden de los atributos no importa: los atributos no están ordenados.
+* Cada atributo de la tabla solo puede tener un valor en cada tupla (fila).
+* Cada atributo tiene un nombre único en cada tabla (aunque pueden coincidir en tablasdistintas).
+* Cada atributo tiene un dominio.
+* Los valores de los atributos son atómicos: en cada tupla (fila), cada atributo (columna) toma un solo valor. Esto aporta a la normalización de la base de datos.
+* El orden de las filas no importa.
+* No se permiten filas repetidas mediante la clave primaría.
+* No existen 2 filas en la tabla que sean idénticas.
 
 
 
